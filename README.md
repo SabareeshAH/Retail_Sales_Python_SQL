@@ -41,8 +41,11 @@ Each query involved data aggregation, grouping, and filtering to derive practica
 
 ## Technologies Used
 <•>	Python (pandas, mysql-connector)<br>
-<•>	MySQL Workbench (Tool)<br>
 <•>	SQL<br>
+
+## Tools Used
+-> Jupyter Notebook <br>
+-> MySQL Workbench <br>
 
 # Results and Insights
 The result of this project is a robust sales database supporting fast, reliable analysis of retail transactions. By integrating Python and SQL, the workflow automates data preparation, storage, and reporting, enabling efficient data-driven decision making for retail operations. The SQL queries provide managers with deep insights into sales performance, customer segments, product trends, and inventory management.
