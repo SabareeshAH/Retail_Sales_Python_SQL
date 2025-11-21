@@ -3,7 +3,7 @@
 This project presents a comprehensive data pipeline and analytical workflow for retail sales data. The objective is to efficiently explore, clean, and analyze sales transactions, providing actionable business insights and answering key retail questions using Python, SQL, and MySQL Workbench.
 
 ## Dataset
-Source: Kaggle Retail Orders (https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
+Source: Kaggle Retail Orders (https://www.kaggle.com/datasets/ankitbansal06/retail-orders)<br>
 Description: The dataset contains transactional sales data, including information on customer demographics, product details, quantities sold, prices, and transaction timestamps.
 
 ## Project Workflow
